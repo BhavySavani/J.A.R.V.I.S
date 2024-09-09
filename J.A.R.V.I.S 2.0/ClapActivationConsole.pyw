@@ -26,7 +26,7 @@ if __name__ == "__main__":
         Listen_for_Claps()
         print("Listening.")
         if Clap==True:
-            os.startfile("J.A.R.V.I.S 3.0.pyw")
+            os.startfile("J.A.R.V.I.S 2.0.pyw")
             speak("Activating Jarvis")
             exit()
         else:
