@@ -34,7 +34,7 @@ while True:
 
     if "activate jarvis" in wake_Up:
         print(f"You said:{wake_Up}")
-        os.startfile("J.A.R.V.I.S 3.0.pyw")
+        os.startfile("J.A.R.V.I.S 2.0.pyw")
         speak("Activating Jarvis")
         exit(0)
         
